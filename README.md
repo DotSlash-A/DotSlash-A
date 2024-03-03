@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/DotSlash-A/DotSlash-A/master/intro-gif.gif" alt="👋 Hi there! I'm Ananya" width="600px">](https://www.dotslashananya.rocks/)
+[<img src="https://raw.githubusercontent.com/DotSlash-A/DotSlash-A/master/intro-gif.gif" alt="👋 Hi there! I'm Ananya" width="960px">](https://www.dotslashananya.rocks/)
 
 
 ## 📕 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
