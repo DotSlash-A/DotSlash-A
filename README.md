@@ -1,3 +1,5 @@
+[<img src="https://raw.githubusercontent.com/DotSlash-A/DotSlash-A/master/intro-gif.gif" alt="👋 Hi there! I'm Ananya")
+
 ### Hi there 👋
 
 <!--
