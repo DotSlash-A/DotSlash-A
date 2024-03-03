@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/DotSlash-A/DotSlash-A/master/intro-gif.gif" alt="👋 Hi there! I'm Ananya" width="900px">
+[<img src="https://raw.githubusercontent.com/DotSlash-A/DotSlash-A/master/intro-gif.gif" alt="👋 Hi there! I'm Ananya" width="600px">](https://www.dotslashananya.rocks/)
 
 ### Hi there 👋
 
@@ -6,9 +6,9 @@
 
 - 🖥 Data Science Intern with bold Ideas.
 - 🎓 Studying B.S in Data Science at the Indian Institute Of Technology, Madras. Graduating december 2024.
-- 🎓Completed Bachelors of Statistics from Osmania University, Hyderabad.
-- I am a Teaching Assistant at my university
-- I am also a server moderator at Aceternity UI discord (https://discord.gg/j7EEvbPtYX)
+- 🎓 Completed Bachelors of Statistics from Osmania University, Hyderabad in 2023.
+- 📑 I am a Teaching Assistant at my university.
+- ✨ I am also a moderator at [Aceternity UI](https://discord.gg/j7EEvbPtYX)
 
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
