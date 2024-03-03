@@ -5,8 +5,11 @@
 ## 📕 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
 - 🖥 Data Science Intern with bold Ideas.
-- 🎓 Studying Data Science at the Indian Institute Of Technology, Madras. Graduating december 2024.
-- Complete Bachelors of Statistics from Osmania University, Hyderabad.
+- 🎓 Studying B.S in Data Science at the Indian Institute Of Technology, Madras. Graduating december 2024.
+- 🎓Completed Bachelors of Statistics from Osmania University, Hyderabad.
+- I am a Teaching Assistant at my university
+- I am also a server moderator at [[Aceternity UI discord server||https://discord.gg/j7EEvbPtYX]]
+
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 
