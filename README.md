@@ -9,7 +9,6 @@
 - 📑 I am a Teaching Assistant at my university.
 - ✨ I am also a moderator at [Aceternity UI](https://discord.gg/j7EEvbPtYX)
 
-
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
