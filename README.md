@@ -1,8 +1,8 @@
 [<img src="https://raw.githubusercontent.com/DotSlash-A/DotSlash-A/master/intro-gif.gif" alt="👋 Hi there! I'm Ananya" width="960px">](https://www.dotslashananya.rocks/)
-```
+
 
 ## 📕 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-
+```plaintext
 - 🖥 Data Science Intern with bold Ideas.
 - 🎓 Studying B.S in Data Science at Indian Institute Of Technology, Madras. Graduating december 2024.
 - 🎓 Completed Bachelors of Statistics from Osmania University, Hyderabad in 2023.
