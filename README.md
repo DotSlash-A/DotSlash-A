@@ -19,7 +19,7 @@
 ```
 
 - 🎯 In the near future, I plan to...
-  - Build an AI-native assistant powered by RAG
+  - Build an AI-native assistant
   - Understand and build components with Nextjs
 - 🤞 One day I hope to...
   - Go Skydiving!
