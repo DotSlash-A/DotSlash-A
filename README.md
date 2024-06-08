@@ -5,7 +5,7 @@
 
 - 🖥 Data Science Intern with bold Ideas.
 - 🎓 Studying B.S in Data Science at Indian Institute Of Technology, Madras. Graduating december 2024.
-- 🎓 Completed Bachelors in Statistics from Osmania University, Hyderabad in 2023 as a dual major.
+- 🎓 Completed Bachelors in Statistics from Osmania University, Hyderabad as a dual major.
 - 📑 I am a Teaching Assistant at my university.
 - ✨ I am also a community manager at [Aceternity UI](https://discord.gg/j7EEvbPtYX)
 
