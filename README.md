@@ -4,7 +4,7 @@
 ## 📕 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
 - 🖥 I'm a curious Data Science intern.
-- 🎓 Studying B.S in Data Science at Indian Institute of Technology, Madras. Graduating december 2024.
+- 🎓 Studying B.S in Data Science at Indian Institute of Technology, Madras. Graduating december 2025.
 - 🎓 Completed Bachelors in Statistics from Osmania University, Hyderabad as a dual major.
 - 📑 I am a Teaching Assistant at my university.
 - ✨ I am also a community manager at [Aceternity UI](https://discord.gg/j7EEvbPtYX)
