@@ -13,16 +13,17 @@
 
 - 🔨 I'm currently...
 
-```yaml
+
 - 🚀 Focusing on high-performance computing, learning **CUDA C++** for GPU programming, and optimizing model efficiency.
 - 🧠 Diving deep into **Large Language Model (LLM) architecture** and alignment algorithms (RLHF, DPO).
 - 💻 Actively contributing to open-source ML infrastructure repositories like **SGLang**.
 - 🧘‍♀️ Finding balance away from the screen by practicing and teaching yoga!
-```
+
+
 
 - 🎯 In the near future, I plan to...
   - Build an AI-native assistant
   - Understand and build components with Nextjs
 - 🤞 One day I hope to...
   - Go Skydiving!
-  - Get a FAANGM+ internship (𝚒𝚏 𝚢𝚘𝚞 𝚑𝚊𝚟𝚎 𝚝𝚑𝚒𝚜 𝚙𝚘𝚠𝚎𝚛 𝚝𝚘 𝚙𝚕𝚎𝚊𝚜𝚎 𝚑𝚒𝚛𝚎 𝚖𝚎)
+
