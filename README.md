@@ -1,5 +1,6 @@
 [<img src="https://raw.githubusercontent.com/DotSlash-A/DotSlash-A/master/intro-gif.gif" alt="👋 Hi there! I'm Ananya" width="960px">](https://www.dotslashananya.rocks/)
 
+## ⬆ About
 
 - 🖥 **Data Analytics** at **Google**.
 - 🎓 Has done Bachelors in Data Science and Applications from **IIT Madras**.
