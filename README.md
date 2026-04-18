@@ -1,6 +1,6 @@
 [<img src="https://raw.githubusercontent.com/DotSlash-A/DotSlash-A/master/intro-gif.gif" alt="👋 Hi there! I'm Ananya" width="960px">](https://www.dotslashananya.rocks/)
 
-## ⬆ About
+
 
 - 🖥 **Data Analytics** at **Google**.
 - 🎓 Has done Bachelors in Data Science and Applications from **IIT Madras**.
@@ -10,11 +10,7 @@
 
 ## ⬆ What I'm up to
 
-
-
 - 🔨 I'm currently...
-
-
 - 🚀 Focusing on high-performance computing, learning **CUDA C++** for GPU programming, and optimizing model efficiency.
 - 🧠 Diving deep into **Large Language Model (LLM) architecture** and alignment algorithms (RLHF, DPO).
 - 💻 Actively contributing to open-source ML infrastructure repositories like **SGLang**.
