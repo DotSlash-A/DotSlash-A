@@ -3,7 +3,7 @@
 
 - 🖥 **Data Analytics ** at **Google**.
 - 🎓 Holds a B.S. in Data Science and Applications from **IIT Madras**.
-- 🎓 Holds a B.S. in Statistics from **Osmania University**.
+- 🎓 Holds a B.Sc. in Statistics from **Osmania University**.
 - 📑 Former Teaching Assistant and eternally curious data science enthusiast.
 - ✨ Community Manager at [Aceternity UI](https://discord.gg/j7EEvbPtYX).
 
