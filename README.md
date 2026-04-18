@@ -1,7 +1,7 @@
 [<img src="https://raw.githubusercontent.com/DotSlash-A/DotSlash-A/master/intro-gif.gif" alt="👋 Hi there! I'm Ananya" width="960px">](https://www.dotslashananya.rocks/)
 
 
-- 🖥 **Data Analytics Apprentice** at **Google** (Hyderabad).
+- 🖥 **Data Analytics ** at **Google**.
 - 🎓 Holds a B.S. in Data Science and Applications from **IIT Madras**.
 - 🎓 Holds a B.S. in Statistics from **Osmania University**.
 - 📑 Former Teaching Assistant and eternally curious data science enthusiast.
