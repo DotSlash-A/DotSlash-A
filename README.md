@@ -2,7 +2,7 @@
 
 
 
-- 🖥 **Data Analytics** at **Google**.
+- 🖥 Works in **Data Analytics** at **Google**.
 - 🎓 Has done Bachelors in Data Science and Applications from **IIT Madras**.
 - 🎓 Also Holds a B.Sc. in Statistics from **Osmania University**.
 - 📑 Former Teaching Assistant and eternally curious data science enthusiast.
