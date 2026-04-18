@@ -1,21 +1,23 @@
 [<img src="https://raw.githubusercontent.com/DotSlash-A/DotSlash-A/master/intro-gif.gif" alt="👋 Hi there! I'm Ananya" width="960px">](https://www.dotslashananya.rocks/)
 
 
-## 📕 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-
-- 🖥 I'm a curious Data Science intern.
-- 🎓 Studying B.S in Data Science at Indian Institute of Technology, Madras. Graduating december 2025.
-- 🎓 Completed Bachelors in Statistics from Osmania University, Hyderabad as a dual major.
-- 📑 I am a Teaching Assistant at my university.
-- ✨ I am also a community manager at [Aceternity UI](https://discord.gg/j7EEvbPtYX)
+- 🖥 **Data Analytics Apprentice** at **Google** (Hyderabad).
+- 🎓 Holds a B.S. in Data Science and Applications from **IIT Madras**.
+- 🎓 Holds a B.S. in Statistics from **Osmania University**.
+- 📑 Former Teaching Assistant and eternally curious data science enthusiast.
+- ✨ Community Manager at [Aceternity UI](https://discord.gg/j7EEvbPtYX).
 
 ## ⬆ What I'm up to
+
+
 
 - 🔨 I'm currently...
 
 ```yaml
-- Interning at a Data Science Firm and learning about Big Data Analysis
-- Exploring Deep learning and Stuff (llms, nlp, etc)
+- 🚀 Focusing on high-performance computing, learning **CUDA C++** for GPU programming, and optimizing model efficiency.
+- 🧠 Diving deep into **Large Language Model (LLM) architecture** and alignment algorithms (RLHF, DPO).
+- 💻 Actively contributing to open-source ML infrastructure repositories like **SGLang**.
+- 🧘‍♀️ Finding balance away from the screen by practicing and teaching yoga!
 ```
 
 - 🎯 In the near future, I plan to...
